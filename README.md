@@ -63,7 +63,3 @@ The project follows Object-Oriented Design principles, employing classes and abs
 
 The project follows a clear object-oriented design with distinct classes for each entity, fostering modularity and code reuse. Abstraction is employed through abstract classes, allowing for consistent methods across different entities.
 
-
-## License
-
-- This project is licensed under the [MIT License](LICENSE), allowing flexibility in use, modification, and distribution.
